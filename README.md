@@ -12,7 +12,7 @@ Authors: Dr. Roy Shilkrot and David Millán Escrivá
 * Chapter 6: Introduction to Web Computer Vision with OpenCv.js
 * Chapter 7: Android Camera Calibration and AR using the ARUco Module
 * Chapter 8: iOS Panoramas with the Stitching Module
-* Chapter 9: Finding the Best OpenCV Algorithm for the Job
+// Chapter 9: Finding the Best OpenCV Algorithm for the Job
 
 Each chapter folder contains individual instruction on building and running the code.
 
